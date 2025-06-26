@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cool good game - Play Online | coolgoodgame.com</title>
+  <meta name="description" content="Play Cool good game online for free! Enjoy this fun and challenging game directly in your browser. Compatible with PC and mobile.">
+  <link rel="canonical" href="https://coolgoodgame.com/" />
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 text-gray-900 font-sans">
+  <div class="max-w-2xl mx-auto px-4 py-8">
+    <header class="mb-8 text-center">
+      <h1 class="text-4xl md:text-5xl font-bold text-blue-600 mb-4">Cool good game</h1>
+      <p class="text-lg md:text-xl text-gray-700">A fun and challenging online game you can play anywhere, anytime!</p>
+    </header>
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold text-green-600 mb-2">Play Now</h2>
+      <div class="flex justify-center">
+        <iframe height="167" frameborder="0" src="https://itch.io/embed/3607144" width="552" class="w-full max-w-xl rounded-lg shadow-lg" allowfullscreen></iframe>
+      </div>
+    </section>
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold text-purple-600 mb-2">About Cool good game</h2>
+      <p class="text-gray-800 mb-2">Cool good game is an engaging browser-based game that combines strategy and fun. Whether you are a casual player or a hardcore gamer, you will find it both accessible and challenging. No downloads or installations required—just click and play!</p>
+    </section>
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold text-pink-600 mb-2">Game Details</h2>
+      <ul class="list-disc list-inside text-gray-800">
+        <li><strong>Platform:</strong> Web (PC & Mobile supported)</li>
+        <li><strong>Genre:</strong> Puzzle / Strategy</li>
+        <li><strong>Developer:</strong> DingDongVG</li>
+        <li><strong>Release:</strong> 2024</li>
+        <li><strong>Free to play:</strong> Yes</li>
+      </ul>
+    </section>
+    <footer class="text-center text-gray-500 text-sm mt-8">
+      &copy; 2024 coolgoodgame.com. All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
